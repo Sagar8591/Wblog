@@ -1,0 +1,67 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25-Sep-2021, 2:59:51 PM
+    Author     : Sagar Thorave
+*/
+body{
+
+}
+.primary-background{
+    background:#4db6ac ; 
+}
+.primary-light-dark{
+   background: #00b0ff ;
+   color: white;
+}
+    .banner-background{
+clip-path: polygon(30% 0%, 70% 0%, 99% 21%, 100% 94%, 65% 91%, 30% 100%, 0 89%, 0 0);
+    }
+
+
+    
+/*    .btn-max-light {
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.btn-max-light span{
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.btn-max-light span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.btn-max-light:hover span {
+  padding-right: 25px;
+}
+
+.btn-max-light:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+
+
+*/
